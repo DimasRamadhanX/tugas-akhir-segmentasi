@@ -9,7 +9,7 @@ Repositori ini berisi proyek analisis data dan sistem segmentasi pelanggan Baby 
 Data mentah (**raw data**) berupa file CSV tidak disimpan di dalam repositori Git ini karena ukurannya yang besar dan kebijakan keamanan (diabaikan menggunakan `.gitignore` di bawah folder `data/raw/`).
 
 Untuk menjalankan proyek ini, **Anda harus meminta data mentah secara manual**:
-*   **Kontak:** Dimas Ramadhan
+*   **Kontak:** DimasRamadhanX
 *   **Email:** [dimasramadhankerja@gmail.com](mailto:dimasramadhankerja@gmail.com)
 
 Setelah mendapatkan file data mentah, buat folder bernama `data/raw/` di direktori utama proyek (jika belum ada), lalu letakkan file-file berikut di dalamnya:
